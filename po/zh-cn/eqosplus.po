@@ -47,6 +47,9 @@ msgstr "星期(1~7)"
 msgid "Suggested feedback:"
 msgstr "建议反馈:"
 
+msgid "Set the interface used for restriction, use pppoe-wan for dialing, use WAN hardware interface for DHCP mode (such as eth1), and use br-lan for bypass mode"
+msgstr "设定用来限制网络速度的接口,拨号使用pppoe-wan,DHCP模式使用WAN口的硬件接口(如:eth1),通用使用br-lan接口"
+
 msgid "Rest Day"
 msgstr "休息日"
 
