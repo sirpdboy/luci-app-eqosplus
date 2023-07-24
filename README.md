@@ -53,6 +53,15 @@
 源码来源：https://github.com/sirpdboy/luci-app-eqosplus
 
 
+- 你可以随意使用其中的源码，但请注明出处。
+
+![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/说明2.jpg)
+
+## 界面
+
+![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/eqosplus.png)
+
+![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/eqosplus2.png)
 
 ## 使用与授权相关说明
  
