@@ -39,14 +39,14 @@ e = t:option(Flag, "enable", translate("Enabled"))
 e.rmempty = false
 e.size = 4
 
-ip = t:option(Value, "mac", translate("IP/MAC"))
 local lan_interfaces = {}
 for interface in string.gmatch(interfaces, "%S+") do
-    if string:match(interface, "lan") then
+    if string.match(interface, "lan") then
         table.insert(lan_interfaces, interface)
     end
 end
 
+ip = t:option(Value, "mac", translate("IP/MAC"))
 for _, lan_interface in ipairs(lan_interfaces) do
     ipc.neighbors({family = 4, dev = lan_interface}, function(n)
         if n.mac and n.dest then
