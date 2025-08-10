@@ -17,6 +17,8 @@
 
 Please read this page carefully, which includes precautions and instructions on how to use it.
 
+## Enhanced version of EQOS with timed speed limit and added features such as timed limit.
+
 ### Method for downloading source code:
 
  ```Brach
