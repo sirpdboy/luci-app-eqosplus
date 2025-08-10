@@ -46,6 +46,10 @@ Please read this page carefully, which includes precautions and instructions on 
 
 ## interface
 
+![screenshots](./doc/eqosplus0.png)
+
+![screenshots](./doc/eqosplus1.png)
+
 ![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/eqosplus.png)
 
 ![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/eqosplus2.png)
@@ -58,8 +62,8 @@ Please read this page carefully, which includes precautions and instructions on 
 - Task Plan : https://github.com/sirpdboy/luci-app-taskplan
 - Power Off Device : https://github.com/sirpdboy/luci-app-poweroffdevice
 - OpentoPD Theme : https://github.com/sirpdboy/luci-theme-opentopd
-- Ku Cat Theme : https://github.com/sirpdboy/luci-theme-kucat
-- Ku Cat Theme Config : https://github.com/sirpdboy/luci-app-kucat-config
+- KuCat Theme : https://github.com/sirpdboy/luci-theme-kucat
+- KuCat Theme Config : https://github.com/sirpdboy/luci-app-kucat-config
 - NFT Time Control : https://github.com/sirpdboy/luci-app-timecontrol
 - Parent Control: https://github.com/sirpdboy/luci-theme-parentcontrol
 - Eqos Plus: https://github.com/sirpdboy/luci-app-eqosplus
